@@ -1,4 +1,4 @@
-# Miini SIEM – Analisador de Logs Linux
+# Mini SIEM – Analisador de Logs Linux
 
 Um projeto educacional em desenvolvimento que simula um mini SIEM (Security Information and Event Management) para análise de logs em sistemas Linux. O objetivo é detectar **possíveis incidentes de segurança**, gerar alertas e propor medidas defensivas como **bloqueio de IPs**.
 
@@ -28,7 +28,7 @@ Um projeto educacional em desenvolvimento que simula um mini SIEM (Security Info
 
 ##  Funcionalidades atuais
 
-✅ Checklist do objetivo de funcionalidades do programa :
+Checklist do objetivo de funcionalidades do programa :
 
 - [x] Contagem de tentativas de login falhadas por IP
 - [x] Detecção de login bem-sucedido fora do horário comercial
