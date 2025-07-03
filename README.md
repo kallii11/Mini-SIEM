@@ -26,18 +26,19 @@ Um projeto educacional em desenvolvimento que simula um mini SIEM (Security Info
 
 ---
 
-##  Funcionalidades atuais
-
-Checklist do objetivo de funcionalidades do programa :
+## Checklist de funcionalidades do programa :
 
 - [x] Contagem de tentativas de login falhadas por IP
 - [x] Detecção de login bem-sucedido fora do horário comercial
+- [ ]  Exclusão de usuários ou grupos
+- [ ] Criação de novos usuários
+- [ ] Detecção de uso de sudo
+- [ ] Exportar alertas para JSON
+- [ ] Relatórios em `.txt` ou `.csv`
 - [ ] Comandos perigosos em `.bash_history` e `auth.log`
 - [ ] Modo “live” para acompanhar log em tempo real
 - [ ] Detecção de uso do `sudo` com comandos perigosos
 - [ ] Sugestão de bloqueio de IPs suspeitos via `iptables`
-- [ ] Análise de criação de novos usuários
-- [ ] Relatórios em `.txt` ou `.csv`
 - [ ] Interface web com Flask
 - [ ] Integração com APIs de localização IP (GeoIP)
 - [ ] Painel de alertas com gráficos
