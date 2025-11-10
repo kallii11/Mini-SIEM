@@ -2,6 +2,7 @@
 
 Sistema leve e didático de detecção de intrusão para análise de logs em sistemas Linux. Detecta eventos suspeitos, gera alertas e propõe medidas defensivas automaticamente.
 
+Visto que opera em sistemas de uso pessoal sua funcionalidade é apenas a familiarização com alguns tipo de função e procedimentos de checagem
 
 ##  Índice
 
